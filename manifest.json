@@ -1,0 +1,17 @@
+{
+    "name": "splashscreen.liu-xiao-guo",
+    "description": "description of Splashscreen",
+    "architecture": "all",
+    "title": "Splashscreen",
+    "hooks": {
+        "Splashscreen": {
+            "apparmor": "Splashscreen.apparmor",
+            "desktop":  "Splashscreen.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "XiaoGuo, Liu <xiaoguo.liu@canonical.com>",
+    "framework" : "ubuntu-sdk-15.04"
+}
+
+

@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Splashscreen
+Exec=qmlscene $@ Main.qml
+Icon=Splashscreen.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+
